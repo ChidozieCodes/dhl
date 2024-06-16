@@ -1,6 +1,6 @@
 <?php include 'header.php' ?>
 
-<h2 class="mainer">Warehousing</h2>
+<h2 class="mainer">Warehousin</h2>
 
 <div class="inland">
 
